@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542264660326",
+    "project_id": "smart-hafazan-13c90",
+    "storage_bucket": "smart-hafazan-13c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542264660326:android:b04a9743123e6bd8f0b8a7",
+        "android_client_info": {
+          "package_name": "com.example.smart_hafazan_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHD09f9T7IcVXemJ1uZ-wG_9pre8mArRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
